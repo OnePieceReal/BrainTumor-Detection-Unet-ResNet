@@ -14,7 +14,7 @@ This project presents a deep learning pipeline for automated brain tumor detecti
 
 The models were trained and evaluated on a publicly available dataset annotated for both segmentation and classification, ensuring consistency and reliability in performance assessment. Additionally, the `ML_Algorithms` folder contains machine learning algorithms implemented from scratch, including Linear Regression, Logistic Regression, clustering algorithms (DBSCAN, K-means, Nearest Neighbor), and a neural network solution for the XOR problem.
 
----
+
 
 ## Dataset
 
@@ -30,7 +30,6 @@ The dataset consists of 3,064 brain MRI scans, each annotated with a patient ID,
 | Glioma     | 1,426          | 46.5%      |
 | Pituitary  | 930            | 30.4%      |
 
----
 
 ## Results  
 
@@ -42,7 +41,7 @@ The segmentation and classification models demonstrate strong performance, as sh
   <img src="Results/result_2.PNG" width="80%">
 </p>
 
----
+
 
 ## Evaluation Metrics  
 
