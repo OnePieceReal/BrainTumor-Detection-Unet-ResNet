@@ -49,7 +49,7 @@ The segmentation and classification models demonstrate strong performance:
 
 The models were evaluated on the test set using the following metrics:  
 
-- **Dice Score (Segmentation)**: 0.7495  
+- **Dice Score (Segmentation)**: 75%
 - **Accuracy (Classification)**: 96%  
 
 <p align="center">
