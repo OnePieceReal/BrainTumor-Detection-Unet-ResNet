@@ -36,10 +36,10 @@ The dataset consists of 3,064 brain MRI scans, each annotated with a patient ID,
 
 The segmentation and classification models demonstrate strong performance, as shown below:  
 
-**Figure 1: Segmentation and Classification Outputs**  
-<p float="left">
-  <img src="Results/result_1.PNG" width="800" alt="Segmentation Result"/>
-  <img src="Results/result_2.PNG" width="800" alt="Classification Result"/>
+<p align="center">
+  <strong>Figure 1: Segmentation and Classification Outputs</strong><br>
+  <img src="Results/result_1.PNG" width="80%"><br>
+  <img src="Results/result_2.PNG" width="80%">
 </p>
 
 ---
@@ -51,17 +51,17 @@ The models were evaluated on the test set using the following metrics:
 - **Dice Score (Segmentation)**: 0.7495  
 - **Accuracy (Classification)**: 96%  
 
-**Figure 2: Confusion Matrix for Classification**  
 <p align="center">
-  <img src="Results/confusion_matrix.PNG" width="600" alt="Confusion Matrix"/>
+  <strong>Figure 2: Confusion Matrix for Classification</strong><br>
+  <img src="Results/confusion_matrix.PNG" width="60%">
 </p>  
 
-**Figure 3: Accuracy and Dice Score Over Time**  
 <p align="center">
-  <img src="Results/accuracy_dice_over_time.PNG" width="600" alt="Accuracy and Dice Progress"/>
+  <strong>Figure 3: Accuracy and Dice Score Over Time</strong><br>
+  <img src="Results/accuracy_dice_over_time.PNG" width="60%">
 </p>  
 
-**Figure 4: Training and Validation Loss Over Time**  
 <p align="center">
-  <img src="Results/loss_over_time.PNG" width="600" alt="Loss Progress"/>
+  <strong>Figure 4: Training and Validation Loss Over Time</strong><br>
+  <img src="Results/loss_over_time.PNG" width="60%">
 </p>
